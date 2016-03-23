@@ -6732,5 +6732,9 @@ body {
         body section#portfolio .item .container:hover .information {
           top: 0%;
           opacity: 1; }
+  body footer {
+    text-align: center;
+    font-size: 12px;
+    margin: 25px 0; }
 
 /*# sourceMappingURL=app.css.map */

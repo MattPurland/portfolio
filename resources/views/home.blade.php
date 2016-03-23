@@ -196,6 +196,10 @@
             </div>
         </section>
 
+        <footer>
+            Matthew Purland | <?php echo date('Y') ?> | <a href="https://bitbucket.org/MatthewPurland/matt-purland">GIT repo</a>
+        </footer>
+
         <script src="bower_components/jquery/dist/jquery.min.js"></script>
         <script src="bower_components/foundation/js/foundation.min.js"></script>
         <script>
