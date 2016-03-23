@@ -1,0 +1,141 @@
+@import "public/bower_components/foundation/scss/normalize";
+@import "public/bower_components/foundation/scss/foundation";
+
+@font-face {
+	font-family: 'ios7';
+    src: 	url('../fonts/ios7-style-font-icons.eot'),
+    		url('../fonts/ios7-style-font-icons.ttf') format('truetype'),
+    		url('../fonts/ios7-style-font-icons.svg') format('svg');
+}
+
+body {
+	transition: all 1000ms ease-in-out;
+	padding: 25px;
+	opacity: 0;
+	background-color: #f0f0f0;
+
+	a {
+		transition: all 500ms ease-in-out;
+		color: #00a3a2;
+		outline: none;
+
+		&:hover {
+			color: #000000;
+		}
+	}
+
+	.icon {
+		font-family: 'ios7';
+		margin-right: 5px;
+		opacity: 0.8;
+		font-size: 1.4rem;
+		vertical-align: middle;
+	}
+
+	header {
+		text-align: center;
+		min-height: 100px;
+
+		h1, h4 {
+			margin: 5px;
+			line-height: 1;
+		}
+
+		h1 {
+			font-weight: 500;
+		}
+
+		h4 {
+			margin-bottom: 25px;
+		}
+	}
+
+	section {
+		&#introduction {
+			.contact {
+				text-align: center;
+				padding-top: 15px;
+
+				ul {
+					margin: 0;
+				    margin-bottom: 15px;
+					list-style: none;
+
+					li {
+
+					}
+				}
+			}
+		}
+
+		&#portfolio {
+			margin: 25px 0;
+
+			.item {
+				padding-bottom: 30px;
+
+				.container {
+					border: 1px solid #969696;
+					padding-top: 55%;
+					position: relative;
+					overflow: hidden;
+					cursor: pointer;
+
+					.background {
+						transition: all 500ms ease-in-out;
+						background-size: 100% 100%;
+						background-position: center;
+						position: absolute;
+					    top: 0;
+					    left: 0;
+					    width: 100%;
+					    height: 100%;
+					}
+
+					.information, .overlay {
+						transition: all 500ms ease-in-out;
+						position: absolute;
+						top: -100%;
+						left: 0;
+						width: 100%;
+						height: 100%;
+						opacity: 0;
+						text-align: center;
+
+						img {
+							height: 25%;
+							margin-top: 11%;
+							border-radius: 5px;
+						}
+
+						a {
+							span {
+								font-size: 1rem;
+							}
+						}
+					}
+
+					.overlay {
+						background-color: white;
+						top: 0;
+					}
+
+					&:hover {
+						.background {
+							transform: scale3d(1.1,1.1,1.1);
+						}
+
+						.overlay {
+							opacity: 0.9;
+						}
+
+						.information {
+							top: 0%;
+							opacity: 1;
+						}
+					}
+				}
+			}
+		}
+	}
+}
