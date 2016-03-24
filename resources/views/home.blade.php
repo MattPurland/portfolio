@@ -197,7 +197,7 @@
         </section>
 
         <footer>
-            Matthew Purland | <?php echo date('Y') ?> | <a href="https://bitbucket.org/MatthewPurland/matt-purland">GIT repo</a>
+            Matthew Purland | <?php echo date('Y') ?> | <a href="https://bitbucket.org/MatthewPurland/matt-purland" target="_blank">GIT repo</a>
         </footer>
 
         <script src="bower_components/jquery/dist/jquery.min.js"></script>
