@@ -6732,6 +6732,10 @@ body {
         body section#portfolio .item .container:hover .information {
           top: 0%;
           opacity: 1; }
+    @media only screen and (max-width: 40em) {
+      body section#portfolio .item {
+        padding-left: 0;
+        padding-right: 0; } }
   body footer {
     text-align: center;
     font-size: 12px;
