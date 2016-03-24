@@ -54,7 +54,7 @@
                 <!-- Greg Rusedski -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/gregrusedski.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/gregrusedski.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/gregrusedski.logo.png" />
@@ -67,7 +67,7 @@
                 <!-- Magic Steps Nursery -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/msn.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/msn.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/msn.logo.png" />
@@ -80,7 +80,7 @@
                 <!-- 1.4 -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/onepointfour.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/onepointfour.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/onepointfour.logo.png" />
@@ -93,7 +93,7 @@
                 <!-- Thy Stride -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/thystride.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/thystride.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/thystride.logo.png" />
@@ -106,7 +106,7 @@
                 <!-- Pat Cash -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/patcash.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/patcash.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/patcash.logo.png" />
@@ -119,7 +119,7 @@
                 <!-- AutoTrader Vauxhall NetworkQ -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/at-networkq.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/at-networkq.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/at-networkq.logo.png" />
@@ -132,7 +132,7 @@
                 <!-- AutoTrader Infiniti -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/at-infiniti.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/at-infiniti.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/at-infiniti.logo.png" />
@@ -145,7 +145,7 @@
                 <!-- AutoTrader Nissan Leaf -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/at-nissan-leaf.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/at-nissan-leaf.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/at-nissan-leaf.logo.png" />
@@ -158,7 +158,7 @@
                 <!-- BandApp-->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/bandapp.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/bandapp.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/bandapp.logo.png" />
@@ -171,7 +171,7 @@
                  <!-- TDTP -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/tdtp.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/tdtp.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/tdtp.logo.png" />
@@ -184,7 +184,7 @@
                 <!-- TBDP -->
                 <div class="small-12 columns medium-6 large-4 item">
                     <div class="container">
-                        <div class="background" style="background-image: url(images/sites/tbdp.png)"></div>
+                        <div class="background" style="background-image: url(images/sites/tbdp.jpg)"></div>
                         <div class="overlay"></div>
                         <div class="information">
                             <img src="images/sites/tbdp.logo.png" />
