@@ -15,7 +15,7 @@ body {
 	background-color: #f0f0f0;
 
 	a {
-		transition: all 500ms ease-in-out;
+		transition: all 250ms ease-in-out;
 		color: #00a3a2;
 		outline: none;
 
@@ -71,6 +71,20 @@ body {
 		&#portfolio {
 			margin: 25px 0;
 
+			h4 {
+				margin-bottom: 15px;
+				font-weight: bold;
+				color: #00a3a2;
+			}
+
+			h5 {
+				font-weight: bold;
+			}
+
+			> .row {
+				margin-bottom: 25px;
+			}
+
 			.item {
 				padding-bottom: 30px;
 
@@ -82,7 +96,7 @@ body {
 					cursor: pointer;
 
 					.background {
-						transition: all 500ms ease-in-out;
+						transition: all 250ms ease-in-out;
 						background-size: cover;
 						background-position: center;
 						position: absolute;
@@ -93,7 +107,7 @@ body {
 					}
 
 					.information, .overlay {
-						transition: all 500ms ease-in-out;
+						transition: all 250ms ease-in-out;
 						position: absolute;
 						top: -100%;
 						left: 0;
@@ -103,8 +117,10 @@ body {
 						text-align: center;
 
 						img {
-							height: 25%;
+							max-height: 25%;
+							max-width: 250px;
 							margin-top: 11%;
+							margin-bottom: 10px;
 							border-radius: 5px;
 						}
 
