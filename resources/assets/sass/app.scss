@@ -1,5 +1,5 @@
-@import "public/bower_components/foundation/scss/normalize";
-@import "public/bower_components/foundation/scss/foundation";
+@import "public/lib/foundation/scss/normalize";
+@import "public/lib/foundation/scss/foundation";
 
 @font-face {
 	font-family: 'ios7';
@@ -87,6 +87,8 @@ body {
 
 			.item {
 				padding-bottom: 30px;
+				transform-style: preserve-3d;
+
 
 				.container {
 					border: 1px solid #969696;
@@ -129,6 +131,10 @@ body {
 								font-size: 1rem;
 							}
 						}
+					}
+
+					.information {
+						transform: translateZ(20px);
 					}
 
 					.overlay {

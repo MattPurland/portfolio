@@ -6650,7 +6650,8 @@ body {
     body section#portfolio > .row {
       margin-bottom: 25px; }
     body section#portfolio .item {
-      padding-bottom: 30px; }
+      padding-bottom: 30px;
+      transform-style: preserve-3d; }
       body section#portfolio .item .container {
         border: 1px solid #969696;
         padding-top: 55%;

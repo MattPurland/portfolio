@@ -430,16 +430,12 @@
         </section>
 
         <footer>
-            Matt Purland | <?php echo date('Y') ?> | <a href="https://github.com/MattPurland" target="_blank">GIT repo</a>
+            Matt Purland | {{ date('Y') }} | <a href="https://github.com/MattPurland" target="_blank">GIT repo</a>
         </footer>
 
-        <script src="bower_components/jquery/dist/jquery.min.js"></script>
-        <script src="bower_components/foundation/js/foundation.min.js"></script>
-        <script>
-            $(document).foundation();
-            $(document).ready(function() {
-                $('body').css('opacity', 1);
-            });
-        </script>
+        <script src="lib/jquery/dist/jquery.min.js"></script>
+        <script src="lib/foundation/js/foundation.min.js"></script>
+        <script src="lib/tilt.js/dest/tilt.jquery.min.js"></script>
+        <script src="js/app.js"></script>
     </body>
 </html>
