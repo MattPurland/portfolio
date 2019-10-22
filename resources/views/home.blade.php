@@ -25,10 +25,9 @@
                     <p>
                         Below is a selection of projects I've worked on in my career, with the majority of the work done
                         by myself. I've also worked on many other projects doing amendments, contributions and private projects.
-                        For more information on any of the site, please feel free to contact me.
+                        For more information on any of the sites, please feel free to contact me. Code examples are available on request.
                     </p>
-                        Please get in touch with any questions,
-                        queries or job opportunities:
+                        Please get in touch with any questions, queries or job opportunities:
                     </p>
                     <div class="contact">
                         <ul>
@@ -55,30 +54,6 @@
                 <div class="columns text-center">
                     <h4>Creative Sponge</h4>
                 </div>
-
-                <!--
-                Educator Solutions - STAR Accounts
-                UEA  - True or False
-                EAAA - Norfolk Show Ball
-                UEA - Your UEA
-                Holt Hall
-                NWES
-                UEA - SIGHT
-
-                Park Farm
-                Anpario
-                Scaresville
-                Eat Natural
-                BeWILDerwood
-                Pumpkin Tree Snacks
-                Pumpkin Tree Snacks - Paw Patrol
-                Ronaldsons
-                Millar West
-
-                Equine Studies
-
-                Inturn Trading - Auction Platform (fixed and updates only)
-                -->
 
                 <div class="columns">
                     <h5>Full Builds</h5>
